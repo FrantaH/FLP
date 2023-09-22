@@ -1,0 +1,14 @@
+-- Projekt: FLP - Varianta termínu - 7. simplify-bkg
+-- Autor: František Horázný
+-- Login: xhoraz02
+-- Rok: 2022
+
+
+Projekt obsahuje veškeré řešení. Navíc jsem implementoval hlubší kontrolu vstupu (doplní pravidlo "A->" na "A->#", hlídá velká a malá písmena, špatné znaky apod.)
+
+Makefile obsahuje možnost spustit jeden relativně triviální automatický test (pomocí diff) pro každý argument 
+    make runi
+    make run1
+    make run2
+
+bohužel jsem nesthil moc komentovat kód, za to se obvzlášť omlouvám, preferoval jsem dodělání funkčnosti a aktuálně je 23:45 ... však víte...

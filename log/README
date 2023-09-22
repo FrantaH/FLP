@@ -1,0 +1,19 @@
+# -- Projekt: FLP - Varianta termínu - 4.	Rubikova kostka
+# -- Autor: František Horázný
+# -- Login: xhoraz02
+# -- Rok: 2022
+
+nevím o žádné chybě
+
+kód využívá prohledávacího algoritmu IDS.
+
+spuštění:
+make
+	vytvoří spustitelný soubor flp21-log
+make run
+	vytvoří spustitelný soubor a spustí se vstupem o 6 tazích (navíc počítá čas) - příklady vstupu převzané od spolužáků.
+
+doba výpočtu na serveru merlin:
+8 tahů: 1m 	32s 430ms
+7 tahů: 	18s 290ms
+6 tahů: 	0s 	70ms
